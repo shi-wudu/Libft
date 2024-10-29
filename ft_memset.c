@@ -6,12 +6,11 @@
 /*   By: marleand <marleand@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/29 14:13:45 by marleand          #+#    #+#             */
-/*   Updated: 2024/10/29 16:22:02 by marleand         ###   ########.fr       */
+/*   Updated: 2024/10/29 16:23:00 by marleand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <string.h>
-#include "stdio.h"
+#include "libft.h"
 
 void *ft_memset(void *s, int filler, size_t n)
 {
